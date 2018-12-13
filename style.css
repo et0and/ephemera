@@ -147,7 +147,7 @@
 /* MAIN STYLES */
 
 body {
-    background: #ececec;
+    background: #b20505;
     font-family: 'Source Code Pro', monospace;
     margin: 0;
     padding: 0;
@@ -156,7 +156,7 @@ body {
 }
 
 a, a:link {
-    color: blue;
+    color: white;
 }
 
 a:hover {
