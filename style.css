@@ -147,7 +147,7 @@
 /* MAIN STYLES */
 
 body {
-    background: #b20505;
+    background: #000000;
     font-family: 'Source Code Pro', monospace;
     margin: 0;
     padding: 0;
@@ -156,11 +156,11 @@ body {
 }
 
 a, a:link {
-    color: blue;
+    color: white;
 }
 
 a:hover {
-    color: red;
+    color: blue;
 }
 
 a:active {
